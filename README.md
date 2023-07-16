@@ -26,7 +26,10 @@ Bank has branck (complete participation) (M:N)
 Branck offers loan (1:N)  
 Branck maintain account (1:N)  
 Loan Availed by customer (M:N)  
-Account hold by customer (M:N)   
+Account hold by customer (M:N)     
+
+
+#Final ER Diagram
 
 ![image](https://github.com/amberkhan707/ER-Diagram/assets/132047828/3f60b5e2-b104-4be8-aca6-79f870c8fbaa)
 
